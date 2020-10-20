@@ -7,6 +7,7 @@ Project Document : https://docs.google.com/document/d/1fR1WpjXpgekh7VzAPWhu2FC7J
 # 2. Installation
 Python ^3.6.2
 ```
+git clone https://github.com/dostarora97/RVCE-CNS-Project
 python3 -m pip install -r requirements.txt
 python3 create_default_account.py
 python3 mainwindow.py
