@@ -1,7 +1,7 @@
 # 1. About 
 Project for Cryptography & Netwrok Security(2019), RVCE 2020  
-Contributers: [Dost Arora](https://github.com/dostarora97) & @anmolgaba  
-Forked From : [ahui2016/PyMima](https://github.com/ahui2016/PyMima)
+Contributers: [Dost Arora](https://github.com/dostarora97) & [Anmol Gaba](https://github.com/anmolgaba)  
+**Forked From : [ahui2016/PyMima](https://github.com/ahui2016/PyMima)**
 
 # 2. Installation
 Python ^3.6.2
