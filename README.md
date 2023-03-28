@@ -1,7 +1,6 @@
 # 1. About 
 Submitted as: Project for Cryptography & Netwrok Security(2019), RVCE 2020  
 Submitted by: [Dost Arora](https://github.com/dostarora97) & [Anmol Gaba](https://github.com/anmolgaba)  
-Project Document : https://docs.google.com/document/d/1fR1WpjXpgekh7VzAPWhu2FC7JwcrrqDSpjxf2FHGmd8/edit?usp=sharing  
 **Forked From : [ahui2016/PyMima](https://github.com/ahui2016/PyMima)**
 
 # 2. Installation
